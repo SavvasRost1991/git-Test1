@@ -5,7 +5,7 @@ public class Test_02_Java_HelloWorld {
 		for(int i=0;i<=10;i++){
 
 
-			System.out.println("Test number 2..."+i);
+			stem.out.println("Test number 2..."+i);
 
 		}
 
